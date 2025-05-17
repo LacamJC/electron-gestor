@@ -1,0 +1,4 @@
+[
+  { "id": 1, "descricao": "Mercado", "valor": 150.50, "data": "2025-05-17" },
+  { "id": 2, "descricao": "Conta de luz", "valor": 85.00, "data": "2025-05-15" }
+]
